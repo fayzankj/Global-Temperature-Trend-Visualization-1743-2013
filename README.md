@@ -36,7 +36,7 @@ Here are some key visualizations from the project:
 
 This plot shows the global average temperature trend over time:
 
-![Global Temperature Trend](https://github.com/fayzankj/Global-Temperature-Trend-Visualization-1743-2013/blob/main/Global%20Temperature%20Trends%20Notebook.ipynb)
+![Global Temperature Trend](https://github.com/fayzankj/Global-Temperature-Trend-Visualization-1743-2013/blob/main/global_temperature_trend.png)
 
 ### 2. City Temperature Trends
 
