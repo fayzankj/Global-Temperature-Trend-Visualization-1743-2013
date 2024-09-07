@@ -36,19 +36,19 @@ Here are some key visualizations from the project:
 
 This plot shows the global average temperature trend over time:
 
-![Global Temperature Trend](assets/global_temperature_trend.png)
+![Global Temperature Trend](https://github.com/fayzankj/Global-Temperature-Trend-Visualization-1743-2013/blob/main/Global%20Temperature%20Trends%20Notebook.ipynb)
 
 ### 2. City Temperature Trends
 
 Comparison of temperature trends across the top 10 cities with the highest number of records:
 
-![City Temperature Trends](assets/city_temperature_trends.png)
+![City Temperature Trends](https://github.com/fayzankj/Global-Temperature-Trend-Visualization-1743-2013/blob/main/temperature_trends_by_city.png)
 
 ### 3. Country Temperature Analysis
 
 Average temperatures across different countries:
 
-![Country Temperature Analysis](assets/country_temperature_analysis.png)
+![Country Temperature Analysis](https://github.com/fayzankj/Global-Temperature-Trend-Visualization-1743-2013/blob/main/Avg_temperature_by_country.png)
 
 
 ## How to Run the Project
